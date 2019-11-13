@@ -1,0 +1,12 @@
+C:\Users\Олег\Desktop\TestTaskItEnterprise\TestTaskItEnterprise\bin\Debug\ItEnterpriseShipment.mdf
+C:\Users\Олег\Desktop\TestTaskItEnterprise\TestTaskItEnterprise\bin\Debug\ItEnterpriseShipment_log.ldf
+C:\Users\Олег\Desktop\TestTaskItEnterprise\TestTaskItEnterprise\bin\Debug\TestTaskItEnterprise.exe.config
+C:\Users\Олег\Desktop\TestTaskItEnterprise\TestTaskItEnterprise\bin\Debug\TestTaskItEnterprise.exe
+C:\Users\Олег\Desktop\TestTaskItEnterprise\TestTaskItEnterprise\bin\Debug\TestTaskItEnterprise.pdb
+C:\Users\Олег\Desktop\TestTaskItEnterprise\TestTaskItEnterprise\obj\Debug\TestTaskItEnterprise.csprojAssemblyReference.cache
+C:\Users\Олег\Desktop\TestTaskItEnterprise\TestTaskItEnterprise\obj\Debug\TestTaskItEnterprise.Form1.resources
+C:\Users\Олег\Desktop\TestTaskItEnterprise\TestTaskItEnterprise\obj\Debug\TestTaskItEnterprise.Properties.Resources.resources
+C:\Users\Олег\Desktop\TestTaskItEnterprise\TestTaskItEnterprise\obj\Debug\TestTaskItEnterprise.csproj.GenerateResource.cache
+C:\Users\Олег\Desktop\TestTaskItEnterprise\TestTaskItEnterprise\obj\Debug\TestTaskItEnterprise.csproj.CoreCompileInputs.cache
+C:\Users\Олег\Desktop\TestTaskItEnterprise\TestTaskItEnterprise\obj\Debug\TestTaskItEnterprise.exe
+C:\Users\Олег\Desktop\TestTaskItEnterprise\TestTaskItEnterprise\obj\Debug\TestTaskItEnterprise.pdb
